@@ -123,7 +123,7 @@ header.row h1.blink{line-height: 0px;
 
 .no1 h2{padding: 25px;} 
  #question{font-size: 2em;} 
- .no1 div.options{font-size: 2em;color: darkred;}
+ .no1 div.options{font-size: 1.5em;color: darkred;}
 
  /*.count1-5 {
            
@@ -177,10 +177,10 @@ header.row h1.blink{line-height: 0px;
    #next { border:none;
            border-radius: 7px;
            background-color: blue;
-           padding: 20px; color: white;
+           padding: 15px; color: white;
            text-decoration: none;
            font-family: sans-serif;
-           font-size: 1.3em;
+           font-size: 1em;
                 
                 
               } 
@@ -202,7 +202,8 @@ header.row h1.blink{line-height: 0px;
          font-size:1.5em;
         }  
            
-       .no1 div.options{font-size: 1.3em;color: darkred;}    
+       .no1 div.options{font-size: 1.3em;color: darkred;}  
+           
            
 }
 
