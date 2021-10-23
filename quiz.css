@@ -195,12 +195,19 @@ header.row h1.blink{line-height: 0px;
   div#timer {position: absolute;top: 10px;right:50px;}
   header.row a.stop{position: absolute;top: 60px;right:10px;}
            
-           div.no1{width:100%;
-         background-color: silver;
-         height: 100%;
-         color:black;float:left;display: block;
+           div.no1{
          font-size:1.5em;
         }  
+              #next { border:none;
+           border-radius: 7px;
+           background-color: blue;
+           padding: 15px; color: white;
+           text-decoration: none;
+           font-family: sans-serif;
+           font-size: 1em;
+                
+                
+              } 
            
        .no1 div.options{font-size: 1.3em;color: darkred;}  
            
