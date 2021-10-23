@@ -256,8 +256,8 @@ function submitblock(){
 var html = `<h1 class="youranswer">*Your Answers*</h1>
             <div id="indicator">
                 <input class="bo"type="button" name="color"><span class="Default">Default</span><br><br>
-                <input class="no" type="button" name="color" ><span>Wrong Answer</span><br><br>
-               <input class="mo"type="button" name="color"><span>Right Answer</span>
+                <input class="no" type="button" name="color" ><span class="wrong">Wrong Answer</span><br><br>
+               <input class="mo"type="button" name="color"><span class="right">Right Answer</span>
             </div>`;
 for (var i = 0; i <= questionJson.quiz.length - 1; i++) {
     console.log(questionJson.quiz[i]);
