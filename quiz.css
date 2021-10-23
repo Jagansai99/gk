@@ -191,7 +191,7 @@ header.row h1.blink{line-height: 0px;
 
 
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 600px){
   div#timer {position: absolute;top: 10px;right:50px;}
   header.row a.stop{position: absolute;top: 60px;right:10px;}
            
@@ -202,7 +202,7 @@ header.row h1.blink{line-height: 0px;
          font-size:1.5em;
         }  
            
-       .no1 div.options{font-size: 1.2em;color: darkred;}    
+       .no1 div.options{font-size: 1.3em;color: darkred;}    
            
 }
 
