@@ -194,6 +194,16 @@ header.row h1.blink{line-height: 0px;
 @media screen and (max-width: 1206px){
   div#timer {position: absolute;top: 10px;right:50px;}
   header.row a.stop{position: absolute;top: 60px;right:10px;}
+           
+           div.no1{width:100%;
+         background-color: silver;
+         height: 100%;
+         color:black;float:left;display: block;
+         font-size:2em;
+        }  
+           
+       .no1 div.options{font-size: 1.5em;color: darkred;}    
+           
 }
 
 
